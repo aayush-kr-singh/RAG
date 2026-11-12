@@ -1,0 +1,7 @@
+git branch -M main
+
+git remote add origin https://github.com/aayush-kr-singh/RAG.git
+
+git push -u origin main
+
+Data/Data (RAG)/Mandatory Disclosure/Annexure-IV (TI Annual Report 2025).pdf
